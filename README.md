@@ -30,6 +30,8 @@ Naypyitaw leads total sales among the cities.
 Member customers contribute more revenue than normal customers.
 Female customers generate slightly higher sales compared to male customers.
 
-Dashboard Preview
+## Dashboard Preview
+
+![Dashboard](Dashboard(supermarket sale).png)
 
 
