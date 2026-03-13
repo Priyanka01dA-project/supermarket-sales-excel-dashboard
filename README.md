@@ -31,7 +31,8 @@ Member customers contribute more revenue than normal customers.
 Female customers generate slightly higher sales compared to male customers.
 
 ## Dashboard Preview
+<img width="1467" height="760" alt="dashboard(supermarket_analysis)" src="https://github.com/user-attachments/assets/b81c1d58-92d0-49c6-b979-31002b2c0788" />
 
-![Dashboard](Dashboard(supermarket sale).png)
+
 
 
