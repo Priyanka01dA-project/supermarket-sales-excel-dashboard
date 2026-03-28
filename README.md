@@ -1,8 +1,8 @@
 # supermarket-sales-excel-dashboard
-This project analyzes a supermarket sales dataset to understand sales performance, customer behavior, and product trends. An interactive dashboard was created using Microsoft Excel to visualize key metrics and provide insights into sales across different product lines, cities, branches, and customer segments.
+This project analyzes a supermarket sales dataset to understand sales performance, customer behavior, and product trends. An interactive dashboard was created using Microsoft Excel to visualize key metrics and provide actionable insights.
 
 **TOOLS USED:**
--Microsoft Excel:Pivot Tables,Data Cleaning,Data Visualization,Slicers for interactive filtering.
+- Microsoft Excel (Pivot Tables, Data Cleaning, Data Visualization, Slicers)
 
 **KEY KPIs:-**
 -Total Sales: 322,966
@@ -18,7 +18,7 @@ Sales by Branch
 Sales by Gender
 Sales by Customer Type
 
-Users can filter the dashboard using slicers for:-
+- Users can filter the dashboard using slicers for:-
 City
 Gender
 Product Line
@@ -31,8 +31,16 @@ Member customers contribute more revenue than normal customers.
 Female customers generate slightly higher sales compared to male customers.
 
 ## Dashboard Preview
-<img width="1467" height="760" alt="dashboard(supermarket_analysis)" src="https://github.com/user-attachments/assets/b81c1d58-92d0-49c6-b979-31002b2c0788" />
+![Dashboard](dashboard.png)
 
+## Key Insights
+Food & Beverages generate the highest revenue
+Branch C shows the highest sales performance
+Naypyitaw leads total sales among cities
+Member customers contribute more revenue than normal customers
+Female customers generate slightly higher sales than male customers
 
+## Business Impact
+This analysis helps supermarket management identify top-performing products, understand customer behavior, and improve sales strategies across different locations and customer segments.
 
 
