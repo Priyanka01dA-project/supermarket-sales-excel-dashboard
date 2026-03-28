@@ -1,4 +1,7 @@
-# supermarket-sales-excel-dashboard
+# supermarket sales excel dashboard
+End-to-end sales analysis project using Excel to create an interactive dashboard and generate business insights.
+
+## Project Overview
 This project analyzes a supermarket sales dataset to understand sales performance, customer behavior, and product trends. An interactive dashboard was created using Microsoft Excel to visualize key metrics and provide actionable insights.
 
 **TOOLS USED:**
